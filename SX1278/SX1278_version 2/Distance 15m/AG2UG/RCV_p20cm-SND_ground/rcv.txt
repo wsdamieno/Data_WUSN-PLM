@@ -1,0 +1,6 @@
+LoRa Receiver
+The values inside the EEPROM are : 0 0 117 1 94 1 11 
+1 0 117 1 95 1 11 
+2 0 117 1 106 1 10 
+3 0 117 1 95 1 10 
+4 0 3 1 164 0 10 
